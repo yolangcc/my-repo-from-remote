@@ -1,18 +1,18 @@
 body {
-    width: 100%;
+    width: 128%;
     margin: 30px;
     background-color: antiquewhite;
  }
   
  #profile-container{
-    max-width: 300px;
+    max-width: 2000px;
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
  }
   
  #profile-image{
-    width: 100%;
+    width: 128%;
     height: auto;
  }
   
@@ -20,7 +20,7 @@ body {
     text-align: center;
  }
  #header {
-    width: 100%;
+    width: 128%;
     height: 50px;
     line-height: 50px;
     background-color: burlywood;
